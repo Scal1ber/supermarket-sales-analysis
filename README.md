@@ -28,7 +28,7 @@ Khoảng một tỷ lệ nhỏ sản phẩm và khách hàng đóng góp phần 
 
 4️⃣ Geographic Opportunity
 
-Doanh thu tập trung ở một số thành phố lớn trong khi các khu vực khác có mức đóng góp thấp hơn nhưng tiềm năng tăng trưởng.
+Doanh thu tập trung ở một số thành phố lớn trong khi các khu vực khác có mức đóng góp thấp hơn nhưng có tiềm năng tăng trưởng.
 
 Insight:
 Có cơ hội mở rộng thị phần tại các khu vực đang tăng trưởng nhanh nhưng chưa chiếm tỷ trọng lớn.
@@ -46,7 +46,7 @@ Khách hàng không quá nhạy cảm với tốc độ giao
 Một nhóm nhỏ khách hàng đóng góp tỷ trọng doanh thu đáng kể.
 
 Insight:
-Cần triển khai chiến lược loyalty và retention để bảo vệ nhóm khách hàng giá trị cao, giảm thiểu rủi ro mất doanh thu từ customer concentration.
+Cần triển khai các chiến lược bảo vệ nhóm khách hàng giá trị cao, giảm thiểu rủi ro mất doanh thu từ customer concentration.
 
 🎯 Strategic Summary
 
