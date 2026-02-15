@@ -1,6 +1,7 @@
 # supermarket-sales-analysis
 
 📊 Key Business Insights
+
 1️⃣ Business Growth & Seasonality
 
 Revenue tăng mạnh trong giai đoạn 2016–2018, cho thấy business có sự phát triển vượt bậc. Tuy nhiên, doanh thu có tính mùa vụ rõ ràng với mức tăng mạnh vào các giai đoạn cuối năm.
